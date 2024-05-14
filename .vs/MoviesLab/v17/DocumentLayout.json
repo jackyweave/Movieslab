@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jacky\\projects\\repos\\MoviesLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6287CF-4CCD-44CF-AD3F-153D67D6FA9A}|MoviesLab\\MoviesLab.csproj|c:\\users\\jacky\\projects\\repos\\movieslab\\movieslab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6287CF-4CCD-44CF-AD3F-153D67D6FA9A}|MoviesLab\\MoviesLab.csproj|solutionrelative:movieslab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 183,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jacky\\projects\\repos\\MoviesLab\\MoviesLab\\Program.cs",
+              "RelativeDocumentMoniker": "MoviesLab\\Program.cs",
+              "ToolTip": "C:\\Users\\jacky\\projects\\repos\\MoviesLab\\MoviesLab\\Program.cs",
+              "RelativeToolTip": "MoviesLab\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:08:22.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

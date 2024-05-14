@@ -1,0 +1,15 @@
+C:\Users\jacky\projects\repos\MoviesLab\MoviesLab\bin\Debug\net8.0\MoviesLab.exe
+C:\Users\jacky\projects\repos\MoviesLab\MoviesLab\bin\Debug\net8.0\MoviesLab.deps.json
+C:\Users\jacky\projects\repos\MoviesLab\MoviesLab\bin\Debug\net8.0\MoviesLab.runtimeconfig.json
+C:\Users\jacky\projects\repos\MoviesLab\MoviesLab\bin\Debug\net8.0\MoviesLab.dll
+C:\Users\jacky\projects\repos\MoviesLab\MoviesLab\bin\Debug\net8.0\MoviesLab.pdb
+C:\Users\jacky\projects\repos\MoviesLab\MoviesLab\obj\Debug\net8.0\MoviesLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacky\projects\repos\MoviesLab\MoviesLab\obj\Debug\net8.0\MoviesLab.AssemblyInfoInputs.cache
+C:\Users\jacky\projects\repos\MoviesLab\MoviesLab\obj\Debug\net8.0\MoviesLab.AssemblyInfo.cs
+C:\Users\jacky\projects\repos\MoviesLab\MoviesLab\obj\Debug\net8.0\MoviesLab.csproj.CoreCompileInputs.cache
+C:\Users\jacky\projects\repos\MoviesLab\MoviesLab\obj\Debug\net8.0\MoviesLab.sourcelink.json
+C:\Users\jacky\projects\repos\MoviesLab\MoviesLab\obj\Debug\net8.0\MoviesLab.dll
+C:\Users\jacky\projects\repos\MoviesLab\MoviesLab\obj\Debug\net8.0\refint\MoviesLab.dll
+C:\Users\jacky\projects\repos\MoviesLab\MoviesLab\obj\Debug\net8.0\MoviesLab.pdb
+C:\Users\jacky\projects\repos\MoviesLab\MoviesLab\obj\Debug\net8.0\MoviesLab.genruntimeconfig.cache
+C:\Users\jacky\projects\repos\MoviesLab\MoviesLab\obj\Debug\net8.0\ref\MoviesLab.dll
